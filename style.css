@@ -10,6 +10,10 @@ body{
     text-align: right;
     color: greenyellow;
 }
+.dropdown{
+    display: inline-block;
+    position: fixed;
+}
 .dropdown button{
     background-color: hsl(0, 0%, 28%);
     color: white;
@@ -41,6 +45,4 @@ body{
 .dropdown a:hover{
     background-color: hsl(0, 0%, 90%);
 }
-.dropdown{
-    display: inline-block;
-}
+
