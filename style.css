@@ -45,4 +45,137 @@ body{
 .dropdown a:hover{
     background-color: hsl(0, 0%, 90%);
 }
-
+.p2{
+    font-size: 3rem;
+}
+#pp1{
+    font-family: 'Courier New', Courier, monospace;
+}
+#pp2{
+    font-family: 'Courier New', Courier, monospace;
+}
+#pp3{
+    font-family: 'Times New Roman', Times, serif;
+}
+#pp4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#pp5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+#pp6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.zad4{
+    color: red;
+}
+#p1{
+    font-size: 3rem;
+}
+#p2{
+    font-size: 1.5rem;
+}
+#p3{
+    font-size: 1rem;
+}
+#p4{
+    font-size: 0.6rem;
+}
+#p5{
+    font-size: 0.8rem;
+}
+#p6{
+    font-size: 1.1rem;
+}
+#p7{
+    font-size: 2rem;
+}
+#z2p1{
+    color: red;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    text-decoration: underline;
+}
+#z2p2{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+}
+#z2p3{
+    color: yellow;
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-style: italic;
+}
+#z2p4{
+    color: blue;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+#h2h2{
+    text-align: right;
+}
+#h2h3{
+    text-align: left;
+}
+#container1{
+    text-align: right;
+}
+#img1{
+    border: 40px solid black;
+    width: 130px;
+    height: 120px;
+}
+#container2{
+    text-align: left;
+}
+#img2{
+    border: 20px solid black;
+    width: 110px;
+    height: 111px;
+}
+#hr1{
+    width: 100px;
+    margin-inline-start: 0;
+    border: 4px solid red;
+}
+#hr2{
+    width: 150px;
+    margin-inline-end:0;
+    border: 3px solid blue;
+}
+#hr3{
+    border: 5px solid green;
+    width: 110px;
+}
+#img3{
+    border: 30px solid black;
+    width: 120px;
+    height: 130px;
+}
+#img4{
+    border: 21px solid black;
+    width: 111px;
+    height: 110px;
+}
+#img5{
+    border: 17px solid black;
+    width: 107px;
+    height: 107px;
+}
+#h2h4{
+    text-align: center;
+}
+.container3{
+    text-align: right;
+}
+.container4{
+    text-align: left;
+}
+.container5{
+    text-align: right;
+}
